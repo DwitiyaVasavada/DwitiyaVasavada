@@ -30,30 +30,54 @@ Currently exploring **advanced Android Development**, **Machine Learning basics*
 
 ## 🚀 Featured Projects
 
-### 🔹 **Voice Controlled Robot for Smart Home**
-A smart home automation system using **voice authentication**, **AI models**, and **microcontroller-based control**.  
-Features include device control, authorized voice command execution (for future enhancement), and user registration.  
-📌 *Repository coming soon (will update link once added)*
+### 🔹 **1. Social Community Website**
+A web platform that allows users to connect, share posts, and interact socially.  
+**Tech Used:** HTML, CSS, PHP, MySQL  
+**Features:**  
+- User login & registration  
+- Post creation & display  
+- Comment system  
+- Basic community interaction  
+📌 **Repository:** https://github.com/DwitiyaVasavada/social-community-website *(Update once uploaded)*
 
 ---
 
-### 🔹 **Online Movie Streaming Website (Android Project)**
-An Android-based streaming app with features like:  
-- User login/signup  
-- Watch trailers  
-- Movie listing & categories  
-- Admin panel to upload/manage movies  
-📌 *Repository coming soon (add link when uploaded)*
-
----
-
-### 🔹 **E-Commerce Online Shopping Website**
-A complete shopping website with:  
+### 🔹 **2. E-Commerce Shopping Website**
+An online shopping platform supporting product browsing, cart system, and admin product management.  
+**Tech Used:** HTML, CSS, PHP, MySQL  
+**Features:**  
 - Product listing  
 - Add to cart  
-- Checkout  
-- Admin product management  
-📌 *Repository coming soon (add link when uploaded)*
+- Checkout workflow  
+- Admin product upload/edit  
+- Responsive UI  
+📌 **Repository:** https://github.com/DwitiyaVasavada/ecommerce-shopping-website *(Update once uploaded)*
+
+---
+
+### 🔹 **3. Movie Streaming App**
+An Android-based movie streaming app with backend support for managing movies and user accounts.  
+**Tech Used:** Java (Android), PHP, MySQL  
+**Features:**  
+- Movie listing & categories  
+- Watch trailers  
+- User login/signup  
+- Admin movie upload  
+- Search functionality  
+📌 **Repository:** https://github.com/DwitiyaVasavada/movie-streaming-app *(Update once uploaded)*
+
+---
+
+### 🔹 **4. Voice-Based Smart Home Automation System**
+A voice-controlled IoT automation system with user-specific voice authentication.  
+**Tech Used:** Python, SpeechBrain, Microcontroller, IoT  
+**Features:**  
+- Secure voice authentication  
+- Device control using voice commands  
+- Multi-user voice profiles  
+- Smart automation flows  
+📌 **Repository:** https://github.com/DwitiyaVasavada/voice-based-smart-home-automation *(Update once uploaded)*
+
 
 ---
 
