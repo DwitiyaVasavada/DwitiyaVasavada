@@ -75,10 +75,15 @@ dwitiyavasavada@gmail.com
 
 ## 🎯 Learning Goals (2025)
 
+## 🎯 Learning Goals (2025)
+
 - Build 2 production-level Android applications  
-- Improve ML understanding and integrate ML models into real projects  
-- Learn backend frameworks (Laravel / Node.js)  
-- Contribute to open-source projects  
+- Strengthen foundations in Machine Learning and implement at least one end-to-end ML model  
+- Learn and apply core Artificial Intelligence concepts (NLP, computer vision, intelligent agents)  
+- Integrate AI or ML components into real Android or web-based projects  
+- Improve backend development skills (Laravel / Node.js)  
+- Contribute to an open-source project in AI, ML, or Android development  
+ 
 
 ---
 
