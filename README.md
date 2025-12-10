@@ -63,7 +63,7 @@ A complete shopping website with:
 https://www.linkedin.com/in/dwitiya-vasavada-6114652b6  
 
 📌 **Email:**  
-dwitiya.vasavada@gmail.com  
+dwitiyavasavada@gmail.com  
 
 ---
 
