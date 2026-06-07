@@ -1,6 +1,6 @@
 # Hi, I'm Dwitiya Vasavada 👋
 
-🎓 **4th-year B.Tech (Information Technology)**  
+🎓 **B.Tech (Information Technology)**  
 💻 **Android & Web Developer**  
 🤖 **IoT & Smart Automation Enthusiast**
 
